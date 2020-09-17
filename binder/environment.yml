@@ -10,6 +10,7 @@ dependencies:
   - pandas
   - xarray
   - matplotlib
+  - nodejs
   - dask
   - distributed
   - gcsfs
