@@ -1,8 +1,9 @@
 name: storm
 channels:
   - conda-forge
+  - pyviz
 dependencies:
-  - python=3.7
+  - python=3.8
   - appmode
   - rasterio
   - numpy
