@@ -35,6 +35,7 @@ dependencies:
   - ipyleaflet
   - graphviz
   - xarray
+  - voilay
   - pip:
       - pyautogui
 
