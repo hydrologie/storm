@@ -10,6 +10,7 @@ dependencies:
   - scipy
   - pandas
   - xarray
+  - pyarrow
   - matplotlib
   - nodejs
   - dask
